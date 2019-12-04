@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-user_packages",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
